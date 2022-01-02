@@ -1,0 +1,11 @@
+(executables
+ (names find_novelties sort_pgn novelty_stats)
+ (libraries core)
+ (ocamlopt_flags (:standard -O3))
+ (preprocess (pps ppx_deriving.eq ppx_sexp_conv ppx_compare ppx_hash ppx_bin_prot)))
+(env
+ (dev
+  (flags (:standard -warn-error -3-9))))
+(ocamllex pgn_lex)
+(menhir
+  (modules pgn_parse))
