@@ -1,0 +1,592 @@
+Read novelty map.
+Processed 50000 games over 1.118398 seconds (44706.815323 games/s)
+Processed 100000 games over 2.210357 seconds (45241.566414 games/s)
+Processed 150000 games over 3.250721 seconds (46143.613071 games/s)
+Processed 200000 games over 4.245114 seconds (47112.983213 games/s)
+Processed 250000 games over 5.253324 seconds (47588.918908 games/s)
+Processed 300000 games over 6.330023 seconds (47393.195920 games/s)
+Processed 350000 games over 7.367448 seconds (47506.271415 games/s)
+Processed 400000 games over 8.412436 seconds (47548.655618 games/s)
+Processed 450000 games over 9.498396 seconds (47376.421776 games/s)
+Processed 500000 games over 10.535743 seconds (47457.496711 games/s)
+Processed 550000 games over 11.606483 seconds (47387.307441 games/s)
+Processed 600000 games over 12.649041 seconds (47434.425397 games/s)
+Processed 650000 games over 13.703197 seconds (47434.187986 games/s)
+Processed 700000 games over 14.802483 seconds (47289.364810 games/s)
+Processed 750000 games over 15.888272 seconds (47204.629791 games/s)
+Processed 800000 games over 16.967143 seconds (47149.953794 games/s)
+Processed 850000 games over 18.125228 seconds (46895.960757 games/s)
+Processed 900000 games over 19.247772 seconds (46758.659823 games/s)
+Processed 950000 games over 20.357525 seconds (46665.789860 games/s)
+Processed 1000000 games over 21.449085 seconds (46622.035917 games/s)
+Processed 1050000 games over 22.547959 seconds (46567.408028 games/s)
+Processed 1100000 games over 23.641096 seconds (46529.145930 games/s)
+Processed 1150000 games over 24.760068 seconds (46445.752114 games/s)
+Processed 1200000 games over 25.883201 seconds (46362.117048 games/s)
+Processed 1250000 games over 26.993988 seconds (46306.607171 games/s)
+Processed 1300000 games over 28.118764 seconds (46232.472433 games/s)
+Processed 1350000 games over 29.245404 seconds (46161.099733 games/s)
+Processed 1400000 games over 30.540398 seconds (45840.921735 games/s)
+Processed 1450000 games over 31.623935 seconds (45851.345788 games/s)
+Processed 1500000 games over 32.739111 seconds (45816.759673 games/s)
+Processed 1550000 games over 33.896161 seconds (45727.892527 games/s)
+Processed 1600000 games over 35.072993 seconds (45619.146281 games/s)
+Processed 1650000 games over 36.189201 seconds (45593.712235 games/s)
+Processed 1700000 games over 37.340564 seconds (45526.896105 games/s)
+Processed 1750000 games over 38.529543 seconds (45419.692434 games/s)
+Processed 1800000 games over 39.732037 seconds (45303.491954 games/s)
+Processed 1850000 games over 40.851696 seconds (45285.757256 games/s)
+Processed 1900000 games over 42.027542 seconds (45208.449136 games/s)
+Processed 1950000 games over 43.252304 seconds (45084.303157 games/s)
+Processed 2000000 games over 44.469915 seconds (44974.225439 games/s)
+Processed 2050000 games over 45.632145 seconds (44924.471390 games/s)
+Processed 2100000 games over 46.881955 seconds (44793.353948 games/s)
+Processed 2150000 games over 48.075135 seconds (44721.662851 games/s)
+Processed 2200000 games over 49.162111 seconds (44749.909309 games/s)
+Processed 2250000 games over 50.351843 seconds (44685.554330 games/s)
+Processed 2300000 games over 51.478436 seconds (44678.902061 games/s)
+Processed 2350000 games over 52.624996 seconds (44655.584982 games/s)
+Processed 2400000 games over 53.847287 seconds (44570.490865 games/s)
+Processed 2450000 games over 54.993395 seconds (44550.804812 games/s)
+Processed 2500000 games over 56.204826 seconds (44480.166266 games/s)
+Processed 2550000 games over 57.344561 seconds (44468.036056 games/s)
+Processed 2600000 games over 58.557099 seconds (44401.106428 games/s)
+Processed 2650000 games over 59.713516 seconds (44378.562470 games/s)
+Processed 2700000 games over 60.944287 seconds (44302.758327 games/s)
+Processed 2750000 games over 62.097396 seconds (44285.270568 games/s)
+Processed 2800000 games over 63.333332 seconds (44210.527037 games/s)
+Processed 2850000 games over 64.483869 seconds (44197.100173 games/s)
+Processed 2900000 games over 65.821070 seconds (44058.840314 games/s)
+Processed 2950000 games over 67.209425 seconds (43892.653155 games/s)
+Processed 3000000 games over 68.459380 seconds (43821.606082 games/s)
+Processed 3050000 games over 69.689296 seconds (43765.688351 games/s)
+Processed 3100000 games over 71.017110 seconds (43651.452232 games/s)
+Processed 3150000 games over 72.270795 seconds (43586.070907 games/s)
+Processed 3200000 games over 73.573439 seconds (43493.956893 games/s)
+Processed 3250000 games over 74.882858 seconds (43401.121510 games/s)
+Processed 3300000 games over 76.137398 seconds (43342.694468 games/s)
+Processed 3350000 games over 77.504308 seconds (43223.403929 games/s)
+Processed 3400000 games over 78.781092 seconds (43157.563655 games/s)
+Processed 3450000 games over 80.099367 seconds (43071.501607 games/s)
+Processed 3500000 games over 81.453170 seconds (42969.475683 games/s)
+Processed 3550000 games over 82.750603 seconds (42899.989399 games/s)
+Processed 3600000 games over 84.172740 seconds (42769.191322 games/s)
+Processed 3650000 games over 85.450164 seconds (42714.956013 games/s)
+Processed 3700000 games over 86.787040 seconds (42633.093841 games/s)
+Processed 3750000 games over 88.162541 seconds (42535.071712 games/s)
+Processed 3800000 games over 89.440282 seconds (42486.449403 games/s)
+Processed 3850000 games over 90.847378 seconds (42378.768703 games/s)
+Processed 3900000 games over 92.131301 seconds (42330.890489 games/s)
+Processed 3950000 games over 93.490368 seconds (42250.341602 games/s)
+Processed 4000000 games over 94.824854 seconds (42183.033620 games/s)
+Processed 4050000 games over 96.115315 seconds (42136.885069 games/s)
+Processed 4100000 games over 97.528682 seconds (42038.915180 games/s)
+Processed 4150000 games over 98.854132 seconds (41981.047516 games/s)
+Processed 4200000 games over 100.314580 seconds (41868.290547 games/s)
+Processed 4250000 games over 101.606170 seconds (41828.168629 games/s)
+Processed 4300000 games over 102.905406 seconds (41785.948738 games/s)
+Processed 4350000 games over 104.143973 seconds (41769.099738 games/s)
+Processed 4400000 games over 105.407775 seconds (41742.651461 games/s)
+Processed 4450000 games over 106.707581 seconds (41702.753980 games/s)
+Processed 4500000 games over 108.074142 seconds (41638.082039 games/s)
+Processed 4550000 games over 109.397638 seconds (41591.391730 games/s)
+
+---------- Overall Stats ----------
+-----------------------------------
+
+4385146 games with novelties of 4549640 total games (96.38%).
+5498187 novelties of 363070839 total moves (1.5%).
+1.208488 average novelties per game. 
+
+For White:
+  2437394 games with novelties of 4549640 total games (53.6%).
+  2769123 novelties of 182752872 total moves (1.5%).
+  0.608647 average novelties per game. 
+
+For Black:
+  2406235 games with novelties of 4549640 total games (52.9%).
+  2729064 novelties of 180317967 total moves (1.5%).
+  0.599842 average novelties per game. 
+
+Top 10 Games: Most Novelties
+  32 novelties: Rozen, Eytan v Efroimski, Marsel (2021.3.15, event: 40th ch-ISR 2021 @ Haifa ISR, round 9.12)
+    [28; 139; 141; 169; 171; 175; 177; 211; 237; 245; 247; 258; 273; 275; 293; 296; 300; 310; 314; 317; 319; 323; 331; 336; 339; 343; 355; 375; 387; 395; 454; 459; ]
+
+  26 novelties: Girya, Olga v Stefanova, Antoaneta (2017.10.23, event: ch-EUR Women Blitz 2017 @ Monaco MNC, round 3.4)
+    [21; 30; 170; 179; 185; 191; 195; 211; 217; 221; 227; 236; 241; 245; 263; 286; 301; 307; 320; 329; 333; 341; 345; 352; 361; 365; ]
+
+  25 novelties: Okhotnik, Vladimir v Wittmann, Walter (2011.11.19, event: 21. World Seniors @ Rijeka CRO, round 5.11)
+    [28; 126; 132; 142; 151; 159; 168; 171; 175; 177; 188; 191; 198; 203; 208; 223; 228; 231; 234; 239; 242; 256; 260; 268; 285; ]
+
+  24 novelties: Canal Oliveras, Joan v Gonzalez Perez, Arian (2012.11.3, event: Santa Eulalia de Roncana ESP, 6. Open @ Santa Eulalia de Roncana ESP, round 4.2)
+    [33; 124; 131; 137; 140; 144; 148; 163; 170; 187; 204; 209; 218; 222; 239; 254; 256; 276; 278; 281; 288; 291; 294; 303; ]
+
+  24 novelties: Krykun, Yuriy v Valantiejus, Vaidotas (2016.6.11, event: Panevezys Open 2016 @ Panevezys LTU, round 8.4)
+    [42; 92; 102; 115; 122; 125; 132; 160; 170; 175; 181; 184; 199; 204; 212; 215; 217; 227; 232; 245; 255; 261; 273; 279; ]
+
+  24 novelties: Ruff, Maximilian v Talyansky, Seth (2017.8.24, event: 7. Split Open 2017 @ Split CRO, round 6.5)
+    [25; 104; 115; 128; 140; 157; 167; 191; 206; 221; 245; 298; 303; 308; 310; 314; 318; 320; 336; 344; 350; 354; 358; 362; ]
+
+  23 novelties: Berg, Emanuel v Socko, Monika (2009.8.3, event: Arctic Chess Challenge @ Tromso NOR, round 3)
+    [29; 132; 148; 150; 155; 159; 162; 166; 170; 172; 176; 180; 186; 204; 208; 210; 222; 224; 228; 234; 242; 249; 260; ]
+
+  23 novelties: Jeet, Jain v Alinasab, Mobina (2017.8.20, event: 24. Abu Dhabi Masters @ Abudhabi UAE, round 7.42)
+    [19; 131; 135; 137; 145; 148; 161; 167; 171; 174; 176; 190; 196; 203; 207; 220; 223; 225; 228; 235; 239; 245; 257; ]
+
+  23 novelties: Keinanen, Toivo v Schleining, Zoya (2017.10.27, event: Haarlem Masters 2017 @ Haarlem NED, round 7.3)
+    [26; 92; 94; 97; 109; 137; 141; 143; 147; 152; 155; 161; 166; 175; 183; 189; 191; 197; 199; 223; 225; 235; 239; ]
+
+  23 novelties: Tan, Zhongyi v Zhao, Xue (2017.12.13, event: 2. IMSA Blitz w 2017 @ Huai'an CHN, round 22.1)
+    [21; 103; 109; 112; 116; 118; 124; 126; 133; 138; 142; 146; 158; 165; 172; 176; 180; 190; 208; 211; 214; 219; 236; ]
+
+----------- Player Stats ----------
+-----------------------------------
+
+Unique players: 281_218
+Players with at least:
+     5 games: 160_012 (56.900%)
+    10 games: 104_511 (37.164%)
+    25 games: 53_892 (19.164%)
+    50 games: 30_636 (10.894%)
+   100 games: 16_665 (5.926%)
+   250 games: 6_909 (2.457%)
+   500 games: 3_124 (1.111%)
+  1000 games: 1_069 (0.380%)
+
+Most novelties per game, among players with:
+  At least 5 games:
+    1. Scherer, Thomas  (2.400) (5 games)
+    2. Hernandez Baldeleon, Jorge Ivan  (2.333) (6 games)
+    3. Raso-Llaras, Daniel  (2.333) (6 games)
+    4. Nuzzolo, Yannis  (2.200) (5 games)
+    5. Carneiro, Luis Guilhereme Rosado  (2.000) (5 games)
+    6. Saurabh Shejwalkar  (2.000) (6 games)
+    7. Plaganyi, Gyula  (2.000) (8 games)
+    8. Letarte-Lavoie, Francis  (2.000) (5 games)
+    9. Gaiducis, Sergejus  (1.857) (7 games)
+    10. Hesse, Michael  (1.857) (7 games)
+  At least 10 games:
+    1. Ustinov, A.  (1.545) (11 games)
+    2. Bulgak, Damir  (1.545) (11 games)
+    3. Mazzi, Leonardo  (1.545) (11 games)
+    4. Quiroga, L  (1.545) (11 games)
+    5. Castro Salcedo, Josue Seibert  (1.545) (11 games)
+    6. Shishkin, Demid  (1.500) (10 games)
+    7. Firmansyah, Farid Ina  (1.500) (10 games)
+    8. Vigdal, Per Kr  (1.500) (10 games)
+    9. Kakhno, Barys  (1.500) (10 games)
+    10. Wegener, Wilfried  (1.500) (10 games)
+  At least 25 games:
+    1. Vedant Nitin vekhande  (1.360) (25 games)
+    2. Ke, Rianne  (1.308) (26 games)
+    3. Sharovskaya, Olga  (1.241) (29 games)
+    4. Stukalov, Alexander  (1.182) (33 games)
+    5. Turta, Stelian  (1.179) (28 games)
+    6. Kryger, Matthew  (1.172) (29 games)
+    7. Uregen, Rafet  (1.156) (32 games)
+    8. Melikyan, Gnel  (1.153) (59 games)
+    9. Wolters, Dick  (1.138) (29 games)
+    10. Swiderski, Radoslaw  (1.133) (30 games)
+  At least 50 games:
+    1. Melikyan, Gnel  (1.153) (59 games)
+    2. Kelly, Paul J  (1.058) (52 games)
+    3. Voiculescu-Holvad, Stefan  (1.038) (53 games)
+    4. Kabilov, Amin  (1.016) (62 games)
+    5. Albertini, Luca  (1.015) (66 games)
+    6. Gudok, Viktor  (1.014) (71 games)
+    7. Ustich, Ekaterina  (1.000) (74 games)
+    8. Talyansky, Seth  (0.980) (51 games)
+    9. Pahomov, Ruslan  (0.975) (79 games)
+    10. Pineau, Joanna  (0.967) (60 games)
+  At least 100 games:
+    1. Bychkov, Vladimir  (0.886) (123 games)
+    2. Suder, Jakub  (0.880) (117 games)
+    3. Brattain, Mika  (0.878) (115 games)
+    4. Rohith Krishna S  (0.866) (134 games)
+    5. Bashirli, Saadat  (0.865) (200 games)
+    6. Potapov, Alexey  (0.851) (114 games)
+    7. Messina, Roberta  (0.849) (179 games)
+    8. Hardaway, Brewington  (0.849) (106 games)
+    9. Dolgun, Can  (0.843) (108 games)
+    10. Ikica, Ante  (0.839) (161 games)
+  At least 250 games:
+    1. Goltsev, Dmitry  (0.807) (606 games)
+    2. Golubovskis, Maksims  (0.803) (290 games)
+    3. Miroshnik, Ekaterina  (0.797) (335 games)
+    4. Aslanov, Umid  (0.792) (361 games)
+    5. Tharushi, T H D Niklesha  (0.788) (353 games)
+    6. Pranav Anand  (0.779) (281 games)
+    7. Sagit, Rauan  (0.778) (324 games)
+    8. Batyte, Daiva  (0.776) (330 games)
+    9. Coelho, Ramyres Santana  (0.775) (320 games)
+    10. Reimanis, Ritvars  (0.774) (393 games)
+  At least 500 games:
+    1. Goltsev, Dmitry  (0.807) (606 games)
+    2. Zaichenko, Daria  (0.768) (508 games)
+    3. Divya Deshmukh  (0.757) (506 games)
+    4. Sahidi, Samir  (0.756) (529 games)
+    5. Srihari L R  (0.753) (677 games)
+    6. Petrosyan, M  (0.750) (813 games)
+    7. Xie, Bryan  (0.742) (503 games)
+    8. Ogloblin, Nikolay  (0.738) (572 games)
+    9. Sihite, Chelsie Monica Ignesias  (0.738) (701 games)
+    10. Obolentseva, Alexandra  (0.736) (553 games)
+  At least 1000 games:
+    1. Przybylski, Wojciech  (0.733) (1046 games)
+    2. Manolache, Marius  (0.715) (1292 games)
+    3. Fedoseev, Vl3  (0.712) (2580 games)
+    4. Mamedjarova, Turkan  (0.710) (1022 games)
+    5. Maghsoodloo, Parham  (0.710) (1753 games)
+    6. Gunina, Valentina  (0.710) (2689 games)
+    7. Costachi, Mihnea  (0.705) (1165 games)
+    8. Dordzhieva, Dinara  (0.699) (1170 games)
+    9. Shirazi, Kamran  (0.698) (1544 games)
+    10. Doluhanova, Evgeniya  (0.697) (1675 games)
+
+Least novelties per game, among players with:
+  At least 5 games:
+    1. Al Obaidli, M.  (0.000) (8 games)
+    2. Woizech  (0.000) (5 games)
+    3. Lindquist, Sture  (0.000) (6 games)
+    4. Yotov, Liuben  (0.000) (5 games)
+    5. Lefstrem, S.  (0.000) (5 games)
+    6. Jacobsen Martin Skov  (0.000) (6 games)
+    7. Tefera, Wossenyelew Haily  (0.000) (5 games)
+    8. Benoit, Alain  (0.000) (8 games)
+    9. Tschistiakova, Tamara  (0.000) (8 games)
+    10. Felicio  (0.000) (6 games)
+  At least 10 games:
+    1. Cristobal, J.  (0.000) (10 games)
+    2. Garcia, Fernandez  (0.000) (10 games)
+    3. Greenfeld, A.  (0.000) (16 games)
+    4. Mcmahon, Daire  (0.000) (11 games)
+    5. Pimenov, Sergey Ivanovich  (0.000) (10 games)
+    6. Nicklasson, Christer  (0.000) (11 games)
+    7. Rahman, Yussof  (0.000) (44 games)
+    8. Al Jamiat, RW.  (0.000) (10 games)
+    9. Hajiyev, Shahin Qabil Oglu  (0.000) (10 games)
+    10. Schurr, Walter  (0.000) (10 games)
+  At least 25 games:
+    1. Rahman, Yussof  (0.000) (44 games)
+    2. Goh Weiming_42675  (0.000) (26 games)
+    3. Narayanan, Sunilduth Lyna  (0.000) (32 games)
+    4. D'innocente Stefano (ITA)  (0.000) (29 games)
+    5. Gopal, Geetha Narayanan  (0.014) (139 games)
+    6. MacLeod, Nicholas  (0.025) (40 games)
+    7. Ayapbergenov, A.  (0.025) (40 games)
+    8. Ratna Sulista, Maria Lucia  (0.029) (35 games)
+    9. Titscher, Sonja  (0.034) (29 games)
+    10. Laflair, R.  (0.038) (26 games)
+  At least 50 games:
+    1. Gopal, Geetha Narayanan  (0.014) (139 games)
+    2. Brückner, Thomas  (0.088) (113 games)
+    3. Müller, Olaf  (0.091) (66 games)
+    4. Grünberg, Rainer  (0.115) (131 games)
+    5. Bu Xiangzhi_16910  (0.118) (187 games)
+    6. Hünerkopf, Heinz  (0.139) (72 games)
+    7. Grün, Gerd-Peter  (0.141) (185 games)
+    8. Alhuwar, Jasem  (0.154) (52 games)
+    9. Zeitlein, Michael  (0.159) (479 games)
+    10. Süchting, Hugo  (0.182) (165 games)
+  At least 100 games:
+    1. Gopal, Geetha Narayanan  (0.014) (139 games)
+    2. Brückner, Thomas  (0.088) (113 games)
+    3. Grünberg, Rainer  (0.115) (131 games)
+    4. Bu Xiangzhi_16910  (0.118) (187 games)
+    5. Grün, Gerd-Peter  (0.141) (185 games)
+    6. Zeitlein, Michael  (0.159) (479 games)
+    7. Süchting, Hugo  (0.182) (165 games)
+    8. Hübner, Robert  (0.220) (1685 games)
+    9. Lin, Chen  (0.232) (358 games)
+    10. MacKenzie, George H  (0.233) (232 games)
+  At least 250 games:
+    1. Zeitlein, Michael  (0.159) (479 games)
+    2. Hübner, Robert  (0.220) (1685 games)
+    3. Lin, Chen  (0.232) (358 games)
+    4. Züger, Beat  (0.262) (860 games)
+    5. Müller, Karsten Dr  (0.264) (368 games)
+    6. Rõtsagov, Mihhail  (0.282) (854 games)
+    7. Grünberg, Hans-Ulrich  (0.292) (524 games)
+    8. Dückstein, Andreas  (0.295) (501 games)
+    9. Grünfeld, Ernst  (0.297) (333 games)
+    10. Grünfeld, Yehuda  (0.322) (583 games)
+  At least 500 games:
+    1. Hübner, Robert  (0.220) (1685 games)
+    2. Züger, Beat  (0.262) (860 games)
+    3. Rõtsagov, Mihhail  (0.282) (854 games)
+    4. Grünberg, Hans-Ulrich  (0.292) (524 games)
+    5. Dückstein, Andreas  (0.295) (501 games)
+    6. Grünfeld, Yehuda  (0.322) (583 games)
+    7. Rychagov, Mikhail  (0.329) (636 games)
+    8. Sahl, Bjarke  (0.337) (834 games)
+    9. Bönsch, Uwe  (0.342) (679 games)
+    10. Shcherbakov, Ruslan  (0.377) (1447 games)
+  At least 1000 games:
+    1. Hübner, Robert  (0.220) (1685 games)
+    2. Shcherbakov, Ruslan  (0.377) (1447 games)
+    3. Graf, Alexander  (0.385) (1086 games)
+    4. Jussupow, Artur  (0.390) (3126 games)
+    5. Xie, Jun  (0.390) (1101 games)
+    6. Korchnoi, Viktor  (0.408) (7994 games)
+    7. Ulybin, Mikhail  (0.423) (2672 games)
+    8. Vyzmanavin, Alexey  (0.438) (1035 games)
+    9. Lukacs, Peter  (0.443) (1613 games)
+    10. De La Villa Garcia, Jesus Maria  (0.444) (1230 games)
+
+Most novelties per 100 moves, among players with:
+  At least 5 games:
+    1. Tepikjan, G.  (8.929) (5 games)
+    2. Turhan, Julie  (8.824) (5 games)
+    3. Ram  (8.571) (5 games)
+    4. Stauffer, A.  (8.333) (6 games)
+    5. Mazakov, Anatoli  (8.000) (6 games)
+    6. Koopmann, Philipp  (7.921) (6 games)
+    7. Brunetti, Alessandro  (7.843) (8 games)
+    8. Starzykiewicz, Kacper  (7.812) (5 games)
+    9. Hunt, Richard  (7.792) (6 games)
+    10. Sill, Kande  (7.752) (11 games)
+  At least 10 games:
+    1. Sill, Kande  (7.752) (11 games)
+    2. Fallatah, Eiman  (5.566) (33 games)
+    3. Frackowiak, S.  (5.479) (10 games)
+    4. Elzeir, Tabarak  (5.469) (10 games)
+    5. Yujra Vargas, Froy Yamil C  (5.435) (11 games)
+    6. Dragomir, David C  (5.405) (11 games)
+    7. Geer  (5.338) (31 games)
+    8. Langer, Krzysztof  (5.288) (10 games)
+    9. Almusawi, Ali  (5.242) (10 games)
+    10. Lovegren  (5.178) (19 games)
+  At least 25 games:
+    1. Fallatah, Eiman  (5.566) (33 games)
+    2. Geer  (5.338) (31 games)
+    3. Mossiaguine, Arina  (3.686) (28 games)
+    4. Portych, Václav  (3.620) (28 games)
+    5. Wolters, Dick  (3.533) (29 games)
+    6. Angelov, Toma  (3.519) (40 games)
+    7. Brogaard, Lars  (3.477) (28 games)
+    8. Kuttnig, Roland  (3.467) (28 games)
+    9. Werren, Hugo  (3.443) (28 games)
+    10. Reyes, Julio  (3.349) (25 games)
+  At least 50 games:
+    1. Kasparov, G  (3.148) (72 games)
+    2. Wenger, Joseph  (2.999) (50 games)
+    3. McKone, Peter  (2.951) (56 games)
+    4. Kristbergsson, Bjorgvin  (2.950) (79 games)
+    5. Millimaci, Sam  (2.920) (52 games)
+    6. Gunderam, G.  (2.914) (87 games)
+    7. Johansen, Paul Ivar  (2.875) (50 games)
+    8. Holsapple, Boyd  (2.860) (144 games)
+    9. Velez Betancourt, Nestor Tomas  (2.781) (113 games)
+    10. Wagner, Frank  (2.762) (75 games)
+  At least 100 games:
+    1. Holsapple, Boyd  (2.860) (144 games)
+    2. Velez Betancourt, Nestor Tomas  (2.781) (113 games)
+    3. Wall, Bill  (2.682) (422 games)
+    4. NN  (2.558) (993 games)
+    5. Powell, Lisa  (2.532) (134 games)
+    6. Nicholson, Jo  (2.503) (145 games)
+    7. Andre, K.  (2.461) (115 games)
+    8. De Smet, Karl  (2.424) (103 games)
+    9. Gedult, David  (2.423) (228 games)
+    10. Cordara, Michele  (2.365) (100 games)
+  At least 250 games:
+    1. Wall, Bill  (2.682) (422 games)
+    2. NN  (2.558) (993 games)
+    3. Mayer, Istvan  (2.298) (537 games)
+    4. Vine, Elzbieta  (2.172) (250 games)
+    5. Golubovskis, Maksims  (2.140) (290 games)
+    6. Tharushi, T H D Niklesha  (2.117) (353 games)
+    7. Bue, Gunnar  (2.107) (297 games)
+    8. Popovic, Aleksandar M  (2.078) (428 games)
+    9. Wall  (2.066) (2976 games)
+    10. Gruz, Janos  (2.055) (287 games)
+  At least 500 games:
+    1. NN  (2.558) (993 games)
+    2. Mayer, Istvan  (2.298) (537 games)
+    3. Wall  (2.066) (2976 games)
+    4. Garcia Martinez, S.  (1.975) (560 games)
+    5. Knezevic, M.  (1.932) (602 games)
+    6. Zaichenko, Daria  (1.878) (508 games)
+    7. Bilek, Istvan  (1.867) (984 games)
+    8. Varga, Zo  (1.857) (1688 games)
+    9. Dely, Peter  (1.839) (555 games)
+    10. Kirov, Nino  (1.830) (855 games)
+  At least 1000 games:
+    1. Wall  (2.066) (2976 games)
+    2. Varga, Zo  (1.857) (1688 games)
+    3. Georgiev, Krum  (1.825) (1013 games)
+    4. Benderac, Ana  (1.750) (1031 games)
+    5. Damaso, Rui  (1.739) (1097 games)
+    6. Karlsson, L.  (1.720) (1231 games)
+    7. Csom, Istvan  (1.716) (1975 games)
+    8. Zaitsev, Igor A  (1.708) (1025 games)
+    9. Parma, Bruno  (1.704) (1004 games)
+    10. Dgebuadze, Alexandre  (1.698) (1584 games)
+
+Least novelties per 100 moves, among players with:
+  At least 5 games:
+    1. Al Obaidli, M.  (0.000) (8 games)
+    2. Woizech  (0.000) (5 games)
+    3. Lindquist, Sture  (0.000) (6 games)
+    4. Yotov, Liuben  (0.000) (5 games)
+    5. Lefstrem, S.  (0.000) (5 games)
+    6. Jacobsen Martin Skov  (0.000) (6 games)
+    7. Tefera, Wossenyelew Haily  (0.000) (5 games)
+    8. Benoit, Alain  (0.000) (8 games)
+    9. Tschistiakova, Tamara  (0.000) (8 games)
+    10. Felicio  (0.000) (6 games)
+  At least 10 games:
+    1. Cristobal, J.  (0.000) (10 games)
+    2. Garcia, Fernandez  (0.000) (10 games)
+    3. Greenfeld, A.  (0.000) (16 games)
+    4. Mcmahon, Daire  (0.000) (11 games)
+    5. Pimenov, Sergey Ivanovich  (0.000) (10 games)
+    6. Nicklasson, Christer  (0.000) (11 games)
+    7. Rahman, Yussof  (0.000) (44 games)
+    8. Al Jamiat, RW.  (0.000) (10 games)
+    9. Hajiyev, Shahin Qabil Oglu  (0.000) (10 games)
+    10. Schurr, Walter  (0.000) (10 games)
+  At least 25 games:
+    1. Rahman, Yussof  (0.000) (44 games)
+    2. Goh Weiming_42675  (0.000) (26 games)
+    3. Narayanan, Sunilduth Lyna  (0.000) (32 games)
+    4. D'innocente Stefano (ITA)  (0.000) (29 games)
+    5. Gopal, Geetha Narayanan  (0.031) (139 games)
+    6. Ayapbergenov, A.  (0.062) (40 games)
+    7. MacLeod, Nicholas  (0.064) (40 games)
+    8. Ratna Sulista, Maria Lucia  (0.067) (35 games)
+    9. Titscher, Sonja  (0.082) (29 games)
+    10. Laflair, R.  (0.105) (26 games)
+  At least 50 games:
+    1. Gopal, Geetha Narayanan  (0.031) (139 games)
+    2. Müller, Olaf  (0.227) (66 games)
+    3. Brückner, Thomas  (0.242) (113 games)
+    4. Bu Xiangzhi_16910  (0.271) (187 games)
+    5. Grünberg, Rainer  (0.320) (131 games)
+    6. Grün, Gerd-Peter  (0.327) (185 games)
+    7. Hünerkopf, Heinz  (0.388) (72 games)
+    8. Zeitlein, Michael  (0.401) (479 games)
+    9. Alhuwar, Jasem  (0.402) (52 games)
+    10. Löwenthal, Johann  (0.449) (66 games)
+  At least 100 games:
+    1. Gopal, Geetha Narayanan  (0.031) (139 games)
+    2. Brückner, Thomas  (0.242) (113 games)
+    3. Bu Xiangzhi_16910  (0.271) (187 games)
+    4. Grünberg, Rainer  (0.320) (131 games)
+    5. Grün, Gerd-Peter  (0.327) (185 games)
+    6. Zeitlein, Michael  (0.401) (479 games)
+    7. Süchting, Hugo  (0.466) (165 games)
+    8. Dasari, Sai Srinivas  (0.535) (127 games)
+    9. MacKenzie, George H  (0.553) (232 games)
+    10. Lin, Chen  (0.560) (358 games)
+  At least 250 games:
+    1. Zeitlein, Michael  (0.401) (479 games)
+    2. Lin, Chen  (0.560) (358 games)
+    3. Hübner, Robert  (0.568) (1685 games)
+    4. Müller, Karsten Dr  (0.636) (368 games)
+    5. Züger, Beat  (0.736) (860 games)
+    6. Dückstein, Andreas  (0.751) (501 games)
+    7. Grünfeld, Yehuda  (0.754) (583 games)
+    8. Grünfeld, Ernst  (0.777) (333 games)
+    9. Grünberg, Hans-Ulrich  (0.785) (524 games)
+    10. Rõtsagov, Mihhail  (0.805) (854 games)
+  At least 500 games:
+    1. Hübner, Robert  (0.568) (1685 games)
+    2. Züger, Beat  (0.736) (860 games)
+    3. Dückstein, Andreas  (0.751) (501 games)
+    4. Grünfeld, Yehuda  (0.754) (583 games)
+    5. Grünberg, Hans-Ulrich  (0.785) (524 games)
+    6. Rõtsagov, Mihhail  (0.805) (854 games)
+    7. Bönsch, Uwe  (0.819) (679 games)
+    8. Sahl, Bjarke  (0.830) (834 games)
+    9. Litynska, Marta  (0.868) (674 games)
+    10. Rychagov, Mikhail  (0.952) (636 games)
+  At least 1000 games:
+    1. Hübner, Robert  (0.568) (1685 games)
+    2. Graf, Alexander  (0.957) (1086 games)
+    3. Xie, Jun  (0.961) (1101 games)
+    4. Korchnoi, Viktor  (0.987) (7994 games)
+    5. Jussupow, Artur  (0.999) (3126 games)
+    6. Shcherbakov, Ruslan  (1.045) (1447 games)
+    7. Ulybin, Mikhail  (1.075) (2672 games)
+    8. Al-Mudahka, Mohd  (1.126) (1157 games)
+    9. So?ko, Monika  (1.134) (1447 games)
+    10. Lalic, Susan K  (1.142) (1068 games)
+
+----------- Decade Stats ----------
+-----------------------------------
+
+Stats per decade :
+         (n / gm)  (n / 100mvs)  (# games)  (% of gms w/ novelties)
+  1800s:  1.053        2.59              38         97.4%
+  1810s:  0.833        1.47              36         83.3%
+  1820s:  0.872        1.30              39         84.6%
+  1830s:  0.719        0.97             285         63.5%
+  1840s:  1.068        1.50             530         90.9%
+  1850s:  1.035        1.42            1435         90.1%
+  1860s:  1.073        1.57            1539         94.4%
+  1870s:  1.091        1.45            1291         94.6%
+  1880s:  1.100        1.34            2797         92.7%
+  1890s:  1.146        1.41            3497         96.1%
+  1900s:  1.150        1.46            6682         95.0%
+  1910s:  1.135        1.47            4645         95.1%
+  1920s:  1.148        1.49           10392         93.1%
+  1930s:  1.197        1.50           16301         96.2%
+  1940s:  1.189        1.47           16313         96.7%
+  1950s:  1.167        1.50           36689         95.3%
+  1960s:  1.166        1.58           69354         96.0%
+  1970s:  1.161        1.61          105339         95.8%
+  1980s:  1.134        1.54          295418         93.5%
+  1990s:  1.149        1.50          976905         93.9%
+  2000s:  1.200        1.52          960063         96.5%
+  2010s:  1.243        1.51         1562599         97.8%
+  2020s:  1.305        1.51          477419         98.9%
+
+----------- World Champs ----------
+-----------------------------------
+
+                     (n / gm)  (n / 100mvs)  (# games) (% of gms w/ novelties)
+      Carlsen, Magnus:   0.633      1.39        4072          54.3%
+ Kasimdzhanov, Rustam:   0.615      1.48        1746          54.4%
+     Topalov, Veselin:   0.598      1.39        2667          54.5%
+   Anand, Viswanathan:   0.580      1.46        3654          53.3%
+     Capablanca, Jose:   0.579      1.50        1116          52.3%
+   Ponomariov, Ruslan:   0.570      1.30        2287          50.5%
+      Smyslov, Vasily:   0.563      1.47        2965          51.4%
+   Botvinnik, Mikhail:   0.563      1.35        1153          50.8%
+    Kramnik, Vladimir:   0.557      1.35        3270          49.8%
+  Petrosian, Tigran V:   0.536      1.51        2191          47.2%
+    Spassky, Boris V.:   0.533      1.55        2726          48.6%
+         Tal, Mikhail:   0.524      1.47        2989          47.5%
+  Alekhine, Alexander:   0.523      1.33        2187          47.7%
+      Kasparov, Garry:   0.514      1.34        2560          46.9%
+            Euwe, Max:   0.512      1.36        1500          46.4%
+    Fischer, Robert J:   0.508      1.28        1068          47.4%
+      Lasker, Emanuel:   0.506      1.41         417          45.8%
+    Steinitz, Wilhelm:   0.479      1.25         881          45.2%
+ Khalifman, Alexander:   0.457      1.34        2552          42.2%
+
+-------- Chess Personalities ---------
+-----------------------------------
+
+                     (n / gm)  (n / 100mvs)  (# games) (% of gms w/ novelties)
+        Botez, Andrea:   0.714      1.76          14          64.3%
+     Botez, Alexandra:   0.713      1.60         157          64.3%
+Cramling Bellon, Anna:   0.692      1.63         636          57.7%
+       Radic, Antonio:   0.688      1.81          16          62.5%
+           Zhou, Qiyu:   0.684      1.56         491          57.6%
+     Nakamura, Hikaru:   0.661      1.41        4072          55.2%
+       Rensch, Daniel:   0.659      1.55         331          60.1%
+         Rozman, Levy:   0.656      1.49         544          59.0%
+         Hansen, Eric:   0.655      1.49        1534          56.3%
+         Hess, Robert:   0.633      1.44         873          55.4%
+          Rosen, Eric:   0.631      1.37         461          51.4%
+      Hambleton, Aman:   0.628      1.38         667          55.5%
+   Naroditsky, Daniel:   0.626      1.44        1095          52.5%
+     Caruana, Fabiano:   0.624      1.35        3014          54.7%
+    Howell, David W L:   0.622      1.37        2135          54.5%
+         Rudolf, Anna:   0.613      1.37         751          52.6%
+       Tania, Sachdev:   0.605      1.41        1461          52.8%
+    Williams, Simon K:   0.580      1.43         848          51.1%
+      Houska, Jovanka:   0.580      1.31        1452          50.6%
+   Finegold, Benjamin:   0.534      1.39        1156          47.8%
