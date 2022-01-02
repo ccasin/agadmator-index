@@ -7,10 +7,11 @@ chess game has the most novelties?
 
 I wrote this software to answer a question I had.  It was meant to be run once.
 It's neither efficient nor well-written.  I intentionally stuck to high-level
-data structures and functional programming idioms because I was curious how the
-performance would be.  The answer: not good, but good enough to get the answer.
-Which maybe is surprising, considering it builds a transposition table of every
-position encountered in the history of recorded chess.
+data structures and functional programming idioms because I was optimizing for
+development time and I was curious how the performance would be.  The answer:
+not great, but good enough to get the answer.  Which maybe is surprising,
+considering it builds a transposition table of every position encountered in the
+recorded history of chess.
 
 ## Building
 
