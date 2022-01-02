@@ -142,7 +142,7 @@ let update_global_stats (p : pgn) (gmi : game_move_info) : unit =
   total_novelties := gmi.gmi_novelties + !total_novelties;
   total_moves := gmi.gmi_moves + !total_moves;
   games_with_novelties :=
-      (if gmi.gmi_novelties > 0 then 0 else 1) + !games_with_novelties;
+      (if gmi.gmi_novelties > 0 then 1 else 0) + !games_with_novelties;
 
   white_novelties := gmi.gmi_white_novelties + !white_novelties;
   black_novelties := gmi.gmi_black_novelties + !black_novelties;

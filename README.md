@@ -67,7 +67,7 @@ $ sort_pgn <foo.pgn>
 ```
 
 This will result in a file `foo.pgn.sorted` that has the same games but sorted
-into the order we will consider the games to have happened for determening what
+into the order we will consider the games to have happened for determining what
 counts as a novelty.  This needs about 2.5x the size of the file in RAM, and
 takes ~20 minutes for Caissabase on my computer.
 

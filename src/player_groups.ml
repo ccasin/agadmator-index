@@ -36,6 +36,7 @@ let personalities =
    "Naroditsky, Daniel";
    "Radic, Antonio";
    "Rensch, Daniel";
+   "Rosen, Eric";
    "Rozman, Levy";
    "Rudolf, Anna";
    "Tania, Sachdev";
