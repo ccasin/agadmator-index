@@ -178,7 +178,7 @@ Among players with at least 250 games, the top 5 by Agadmator rating are:
 
  | Player  | Agadmator Rating | Total games |
  |---------|----------------|-----------|
- | [Goltsev, Dmitry](ttps://ratings.fide.com/profile/24176710)  | 0.807 | 606  |
+ | [Goltsev, Dmitry](https://ratings.fide.com/profile/24176710)  | 0.807 | 606  |
  | [Golubovskis, Maksims](https://ratings.fide.com/profile/11608528)  |  0.803 |290|
  | [Miroshnik, Ekaterina](https://ratings.fide.com/profile/34127698) | 0.797 |335 |
  | [Aslanov, Umid](https://ratings.fide.com/profile/13412620) | 0.792 |361 |
