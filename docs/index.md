@@ -121,6 +121,7 @@ stats:
 |       Carlsen, Magnus  |  0.633  |   1.39   |    4072   |     54.3%  |
 |  Kasimdzhanov, Rustam  |  0.615  |   1.48   |    1746   |     54.4%  |
 |      Topalov, Veselin  |  0.598  |   1.39   |    2667   |     54.5%  |
+|      Karpov, Anatoly   |  0.581  |   1.40   |    2527   |     50.9%  |
 |    Anand, Viswanathan  |  0.580  |   1.46   |    3654   |     53.3%  |
 |      Capablanca, Jose  |  0.579  |   1.50   |    1116   |     52.3%  |
 |    Ponomariov, Ruslan  |  0.570  |   1.30   |    2287   |     50.5%  |

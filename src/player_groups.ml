@@ -14,6 +14,7 @@ let champions =
    "Fischer, Robert J";
    "Kasparov, Garry";
    "Kramnik, Vladimir";
+   "Karpov, Anatoly";
    "Khalifman, Alexander";
    "Anand, Viswanathan";
    "Ponomariov, Ruslan";
